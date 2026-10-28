@@ -1,0 +1,5 @@
+Cluster,Segment,Age,JobLevel,MonthlyIncome,YearsAtCompany,YearsSinceLastPromotion,DistanceFromHome,OT,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,PerformanceRating,TrainingTimesLastYear,Employees,Share_%,Attrition_%
+0,Overworked & Disengaged,35.271,2.166,8739.809,5.08,2.828,9.745,0.901,1.939,2.121,1.838,2.901,1.796,314,21.361,42.994
+1,Engaged High Performers,38.513,3.368,12004.615,7.925,1.613,9.839,0.152,3.413,3.191,3.121,4.042,3.259,429,29.184,2.564
+2,Stagnant Veterans,49.013,2.86,11207.774,17.96,8.874,9.651,0.11,2.332,2.658,2.691,2.452,1.641,301,20.476,9.635
+3,Early-Career Starters,26.613,1.286,5887.653,1.857,0.742,9.305,0.251,2.746,2.817,2.862,2.843,2.829,426,28.98,14.319

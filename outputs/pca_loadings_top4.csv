@@ -1,0 +1,13 @@
+,PC1,PC2,PC3,PC4
+Age,0.467,-0.116,-0.028,-0.026
+JobLevel,0.409,0.238,0.359,-0.038
+MonthlyIncome,0.454,0.174,0.33,-0.035
+YearsAtCompany,0.47,-0.149,-0.182,0.008
+YearsSinceLastPromotion,0.387,-0.319,-0.213,0.04
+DistanceFromHome,0.009,-0.003,0.193,0.971
+OverTime,-0.152,-0.245,0.528,-0.12
+JobSatisfaction,0.026,0.432,-0.09,0.002
+EnvironmentSatisfaction,0.051,0.347,-0.286,0.01
+WorkLifeBalance,0.055,0.328,-0.418,0.116
+PerformanceRating,0.03,0.454,0.31,-0.14
+TrainingTimesLastYear,-0.088,0.308,0.075,0.065

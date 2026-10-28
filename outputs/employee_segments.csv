@@ -1,0 +1,1471 @@
+EmployeeID,Department,Segment,Retention_Tier,PerfGroup,Watchlist,Attrition,PC1,PC2
+1,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.407,-0.049
+2,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-2.322,-2.28
+3,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.901,-1.519
+4,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.095,0.102
+5,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.657,2.196
+6,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,1.765,-2.629
+7,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.497,1.231
+8,Human Resources,Overworked & Disengaged,High risk,Solid (3),False,No,-1.7,-0.436
+9,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.174,2.506
+10,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.132,-1.386
+11,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.181,-1.594
+12,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.187,-2.107
+13,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.727,-0.394
+14,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.906,-1.12
+15,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.002,-2.041
+16,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.336,3.123
+17,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-2.26,0.257
+18,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.093,1.943
+19,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.625,-0.516
+20,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.549,0.946
+21,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.819,1.804
+22,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-0.151,0.031
+23,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.078,-1.191
+24,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.635,-1.121
+25,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.058,0.037
+26,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.897,2.829
+27,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.263,-1.003
+28,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.835,2.301
+29,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.602,2.474
+30,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.217,0.137
+31,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.656,0.294
+32,Human Resources,Stagnant Veterans,Low risk,Solid (3),False,Yes,1.66,-0.953
+33,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-1.719,-3.006
+34,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.245,-1.604
+35,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.007,-0.843
+36,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.443,2.832
+37,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.873,1.162
+38,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.374,-1.898
+39,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,-1.293,0.321
+40,Sales,Early-Career Starters,Medium risk,Solid (3),True,No,-2.9,-0.263
+41,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.418,-0.76
+42,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.014,-0.384
+43,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.956,0.724
+44,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-2.698,-1.795
+45,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,4.086,-1.636
+46,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.075,-0.307
+47,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.108,-0.14
+48,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.551,1.704
+49,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.255,0.663
+50,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.153,2.995
+51,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.356,1.654
+52,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.511,2.647
+53,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-1.874,1.151
+54,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.216,1.621
+55,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.881,-0.759
+56,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,Yes,-2.397,-0.169
+57,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.703,-1.892
+58,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.605,0.61
+59,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.749,2.078
+60,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.942,1.379
+61,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.625,1.546
+62,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.568,-2.414
+63,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.689,-0.544
+64,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.116,0.395
+65,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.407,0.183
+66,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.564,-0.1
+67,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.762,1.234
+68,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-1.034,-2.013
+69,Sales,Engaged High Performers,Low risk,Solid (3),False,No,1.452,2.292
+70,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.324,-2.093
+71,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.68,2.089
+72,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.384,-2.423
+73,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.589,-1.58
+74,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.067,1.081
+75,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.188,0.322
+76,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.853,0.021
+77,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.424,1.866
+78,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.808,-1.37
+79,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.033,-0.283
+80,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.099,0.372
+81,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.41,1.023
+82,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.166,-2.489
+83,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.87,0.024
+84,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.991,3.028
+85,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.316,0.483
+86,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.893,2.182
+87,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.979,0.011
+88,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.382,-1.422
+89,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.607,2.26
+90,Sales,Overworked & Disengaged,High risk,High (>=4),False,Yes,0.534,0.267
+91,Human Resources,Engaged High Performers,Low risk,Solid (3),False,No,0.974,1.681
+92,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.485,-1.486
+93,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.249,-1.337
+94,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.32,-0.772
+95,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-0.6,-1.907
+96,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.814,1.036
+97,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-3.146,-0.744
+98,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,-0.046,0.4
+99,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.807,3.157
+100,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.47,-1.637
+101,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.016,-1.17
+102,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-1.911,-0.73
+103,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.582,2.782
+104,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.586,-0.555
+105,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.522,-0.684
+106,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.625,0.039
+107,Sales,Overworked & Disengaged,High risk,High (>=4),False,No,-0.639,-0.951
+108,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.727,3.302
+109,Human Resources,Engaged High Performers,Low risk,Solid (3),False,No,1.11,2.079
+110,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.329,-1.256
+111,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,1.296,-2.473
+112,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.217,3.817
+113,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.989,-2.333
+114,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.155,0.41
+115,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.061,1.919
+116,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.404,-2.511
+117,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.062,0.457
+118,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.389,-0.962
+119,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-2.472,-1.55
+120,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.599,0.269
+121,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-2.993,-0.238
+122,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.541,0.942
+123,Sales,Engaged High Performers,Low risk,Solid (3),False,No,2.147,0.672
+124,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.744,-1.167
+125,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.691,2.464
+126,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.595,-1.86
+127,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.448,-0.822
+128,Research & Development,Engaged High Performers,Low risk,High (>=4),False,Yes,0.737,0.845
+129,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.346,2.332
+130,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.053,0.419
+131,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.215,4.063
+132,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.191,-2.312
+133,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.518,-0.416
+134,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-0.596,-1.798
+135,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.881,0.454
+136,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.551,1.051
+137,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,3.062,-2.663
+138,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.349,-2.348
+139,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.366,0.986
+140,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.769,3.22
+141,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.345,-1.893
+142,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,0.263,-1.852
+143,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.436,-0.516
+144,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.943,0.095
+145,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.384,-1.306
+146,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.383,1.493
+147,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-1.577,-1.99
+148,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.216,0.383
+149,Human Resources,Early-Career Starters,Medium risk,High (>=4),False,No,-1.484,0.234
+150,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.752,2.346
+151,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.134,-3.171
+152,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.498,-1.542
+153,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.38,1.708
+154,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.244,-0.338
+155,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.84,1.844
+156,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.105,0.108
+157,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.979,3.28
+158,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.507,0.192
+159,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.373,-0.556
+160,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.019,-0.009
+161,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.703,2.045
+162,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.478,-0.151
+163,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.232,1.706
+164,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.482,2.027
+165,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-2.723,0.533
+166,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,0.078,0.036
+167,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,2.289,0.957
+168,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.62,-2.13
+169,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.193,-1.315
+170,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.921,-1.41
+171,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.719,1.702
+172,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.518,-1.037
+173,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.652,1.998
+174,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,0.802,-0.997
+175,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.14,0.896
+176,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.337,0.553
+177,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-0.812,-2.946
+178,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.619,-1.396
+179,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.899,-0.723
+180,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-1.735,-0.378
+181,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.746,-0.219
+182,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.67,-1.789
+183,Research & Development,Engaged High Performers,Low risk,High (>=4),False,Yes,0.163,0.295
+184,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.285,-0.047
+185,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.924,-1.048
+186,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.004,-1.997
+187,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.512,-1.513
+188,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.23,1.614
+189,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.998,-0.326
+190,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.843,2.355
+191,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.314,-0.386
+192,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.083,0.55
+193,Sales,Engaged High Performers,Low risk,High (>=4),False,Yes,0.138,2.197
+194,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,1.202,-1.609
+195,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.469,2.488
+196,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.912,2.125
+197,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.136,1.12
+198,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,4.261,-1.298
+199,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.462,1.688
+200,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-1.184,-1.435
+201,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.778,-0.213
+202,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.039,-1.763
+203,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,1.071,-1.259
+204,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,-1.11,0.51
+205,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.18,2.283
+206,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.477,1.65
+207,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.371,2.446
+208,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.463,0.54
+209,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.528,2.213
+210,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.226,-2.973
+211,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.341,0.869
+212,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.243,1.174
+213,Sales,Engaged High Performers,Low risk,Solid (3),False,No,0.184,0.701
+214,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.712,0.298
+215,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.728,0.271
+216,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.286,0.879
+217,Research & Development,Engaged High Performers,Low risk,Solid (3),False,Yes,-0.493,1.299
+218,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.574,2.223
+219,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.015,0.115
+220,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-0.289,-0.775
+221,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.264,-2.224
+222,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-1.633,-0.171
+223,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.511,0.187
+224,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.365,-1.995
+225,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.669,2.266
+226,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.821,-0.159
+227,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.401,1.607
+228,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.992,-0.959
+229,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-2.21,0.163
+230,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.17,2.138
+231,Sales,Engaged High Performers,Low risk,Solid (3),False,No,-0.253,1.291
+232,Human Resources,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-0.552,-2.483
+233,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.754,-0.131
+234,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.616,-0.721
+235,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.302,-0.856
+236,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,2.12,0.072
+237,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.605,-0.967
+238,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.743,0.452
+239,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.636,0.09
+240,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.421,1.003
+241,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.519,-1.524
+242,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.771,0.798
+243,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.22,0.882
+244,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.555,-0.159
+245,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.691,0.59
+246,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.065,-0.802
+247,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.36,-0.299
+248,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,0.227,-0.57
+249,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.037,-0.891
+250,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,0.075,-1.334
+251,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.298,1.091
+252,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.978,-0.779
+253,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.384,-2.472
+254,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.038,2.806
+255,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.253,2.164
+256,Research & Development,Early-Career Starters,Medium risk,Solid (3),True,Yes,-3.096,-0.523
+257,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.407,-1.356
+258,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.866,0.918
+259,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.474,1.437
+260,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.683,0.428
+261,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.106,2.866
+262,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.054,-2.229
+263,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-0.181,-1.675
+264,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.005,2.081
+265,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.778,-1.7
+266,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.537,1.098
+267,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.725,2.052
+268,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.065,2.334
+269,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,2.218,2.309
+270,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.727,1.158
+271,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.797,1.797
+272,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.736,2.803
+273,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.016,0.92
+274,Human Resources,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.66,-1.45
+275,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.887,-1.589
+276,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.191,-1.024
+277,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-0.746,-0.235
+278,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.577,-0.459
+279,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.858,-0.382
+280,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,1.397,-2.339
+281,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.809,1.783
+282,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.204,1.981
+283,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.751,2.099
+284,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.699,2.566
+285,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.641,-1.395
+286,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.205,-0.637
+287,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.034,0.379
+288,Human Resources,Overworked & Disengaged,High risk,Low (<=2),True,No,-1.929,-2.853
+289,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.99,0.454
+290,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.755,2.462
+291,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.474,-2.393
+292,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.471,0.972
+293,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.923,-0.5
+294,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.046,1.753
+295,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.094,-1.29
+296,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.488,-0.699
+297,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,4.009,-0.737
+298,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.96,-1.994
+299,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.147,1.9
+300,Sales,Early-Career Starters,Medium risk,High (>=4),False,Yes,-2.179,0.249
+301,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.683,2.126
+302,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.281,2.833
+303,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.634,-0.006
+304,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.109,-1.789
+305,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.521,-2.88
+306,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.058,0.59
+307,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,0.328,-2.229
+308,Research & Development,Early-Career Starters,Medium risk,Low (<=2),True,No,-2.903,-1.27
+309,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.346,1.926
+310,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.855,1.588
+311,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-0.594,-1.667
+312,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.172,-2.402
+313,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.056,1.248
+314,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-1.681,-1.079
+315,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-2.205,-1.893
+316,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.803,-2.02
+317,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.265,-0.811
+318,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.565,0.476
+319,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-0.676,1.393
+320,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.132,-1.216
+321,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.579,-0.37
+322,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.257,0.156
+323,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-0.451,-1.255
+324,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.806,-0.46
+325,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,0.298,-1.143
+326,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.608,0.677
+327,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,1.959,-1.33
+328,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.278,-0.682
+329,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.155,1.028
+330,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.36,1.258
+331,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.57,1.209
+332,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.164,1.827
+333,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.885,-0.977
+334,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.491,-1.514
+335,Sales,Engaged High Performers,Low risk,Solid (3),False,No,-0.159,0.84
+336,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-2.495,-1.531
+337,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.506,2.199
+338,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.89,0.688
+339,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.604,1.17
+340,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.091,-1.422
+341,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.806,1.121
+342,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.517,-1.293
+343,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.42,-1.521
+344,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.771,-0.216
+345,Sales,Early-Career Starters,Medium risk,High (>=4),False,Yes,-1.808,0.845
+346,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.367,0.124
+347,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.748,-1.754
+348,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.182,2.325
+349,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.7,-1.136
+350,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.165,0.065
+351,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-1.397,0.63
+352,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.545,2.092
+353,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.949,0.25
+354,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.179,0.889
+355,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.847,-2.921
+356,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.656,-0.075
+357,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.28,-0.296
+358,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.38,0.41
+359,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,0.647,-1.869
+360,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.068,1.409
+361,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.58,-1.529
+362,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.753,1.535
+363,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.136,1.599
+364,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.436,2.239
+365,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.429,-0.043
+366,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.706,-1.356
+367,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.001,0.62
+368,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.654,0.95
+369,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,-2.213,-1.797
+370,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.063,-2.213
+371,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.389,1.219
+372,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.496,2.798
+373,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.724,-0.896
+374,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-1.518,-1.468
+375,Research & Development,Engaged High Performers,Low risk,High (>=4),True,No,0.181,0.891
+376,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.092,0.547
+377,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.074,-2.527
+378,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.264,-0.617
+379,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.542,-0.842
+380,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.727,-0.803
+381,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.371,-0.05
+382,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.893,-0.89
+383,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.563,0.685
+384,Sales,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-0.35,-1.402
+385,Sales,Overworked & Disengaged,High risk,High (>=4),False,Yes,-1.709,0.319
+386,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,1.997,-1.787
+387,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.555,0.662
+388,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.286,-2.3
+389,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.735,1.615
+390,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.795,-1.543
+391,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.69,0.184
+392,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.018,2.784
+393,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,No,-2.882,-1.531
+394,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.099,-0.373
+395,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.158,1.295
+396,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.143,-1.42
+397,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.386,-1.892
+398,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.446,2.076
+399,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.68,-0.551
+400,Sales,Overworked & Disengaged,High risk,High (>=4),False,No,-0.793,-0.19
+401,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.65,-3.199
+402,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,3.292,-0.119
+403,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,-1.669,1.963
+404,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.935,2.264
+405,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.887,-0.412
+406,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.316,-2.201
+407,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.096,1.007
+408,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.419,-1.853
+409,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,2.36,1.509
+410,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.752,-1.083
+411,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.881,-0.913
+412,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.469,-0.578
+413,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.39,2.031
+414,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.96,-1.536
+415,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.985,-0.072
+416,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.23,1.374
+417,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.284,2.001
+418,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.051,-0.802
+419,Sales,Engaged High Performers,Low risk,High (>=4),False,No,2.006,2.185
+420,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.228,-1.847
+421,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.793,-0.16
+422,Sales,Engaged High Performers,Low risk,High (>=4),False,No,2.303,3.589
+423,Research & Development,Engaged High Performers,Low risk,Solid (3),False,Yes,1.397,1.212
+424,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.418,2.131
+425,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.138,-1.16
+426,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.036,-0.721
+427,Sales,Engaged High Performers,Low risk,High (>=4),False,No,2.04,2.062
+428,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,2.375,-2.286
+429,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.718,2.323
+430,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,1.972,-1.614
+431,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,0.979,-1.514
+432,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.656,-0.42
+433,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.88,0.146
+434,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.374,-0.496
+435,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.984,2.297
+436,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.489,0.691
+437,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.947,2.537
+438,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.427,-2.447
+439,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.657,-1.095
+440,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.265,0.582
+441,Research & Development,Stagnant Veterans,Low risk,Solid (3),True,No,3.244,-0.94
+442,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.15,2.158
+443,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.619,0.347
+444,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.296,1.234
+445,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.176,1.167
+446,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.931,-0.028
+447,Sales,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.978,-1.69
+448,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.52,0.121
+449,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.715,2.121
+450,Human Resources,Early-Career Starters,Medium risk,High (>=4),False,No,-2.062,0.687
+451,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.092,2.757
+452,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.897,-0.936
+453,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.624,-0.595
+454,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.092,1.763
+455,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.347,1.838
+456,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.244,1.239
+457,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.137,-0.867
+458,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.516,0.439
+459,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.756,0.042
+460,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.764,-0.031
+461,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.671,-0.267
+462,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.092,2.214
+463,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.281,-2.273
+464,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.402,-1.018
+465,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.796,0.788
+466,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.613,-0.437
+467,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.881,-0.767
+468,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.662,-1.771
+469,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.233,2.351
+470,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,Yes,-2.197,-0.943
+471,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.393,-1.602
+472,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,1.207,-1.836
+473,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.965,3.401
+474,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.894,1.917
+475,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.45,1.329
+476,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-0.647,0.026
+477,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.931,0.068
+478,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.667,0.721
+479,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.715,0.149
+480,Sales,Engaged High Performers,Low risk,Solid (3),False,No,1.072,0.425
+481,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,No,0.441,-1.307
+482,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.56,1.594
+483,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-2.33,-0.559
+484,Human Resources,Overworked & Disengaged,High risk,Low (<=2),False,Yes,0.455,-2.151
+485,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.348,1.547
+486,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,No,-1.121,-2.2
+487,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-1.639,-0.264
+488,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.501,2.057
+489,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-3.019,-0.033
+490,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.538,0.522
+491,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.732,0.355
+492,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.405,-0.441
+493,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.976,0.457
+494,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.295,1.614
+495,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.796,-0.282
+496,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.121,0.272
+497,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-0.473,-2.027
+498,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.186,-0.41
+499,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,-1.2,0.128
+500,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.044,-1.225
+501,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.47,-0.279
+502,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,1.372,-1.322
+503,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.095,-0.077
+504,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.963,-1.31
+505,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.223,-0.753
+506,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.316,0.131
+507,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,0.108,-1.856
+508,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.705,-1.067
+509,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.031,-0.382
+510,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.776,1.794
+511,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.34,1.587
+512,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.855,0.807
+513,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.189,2.081
+514,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.289,2.501
+515,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.555,-1.698
+516,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.572,3.884
+517,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.795,-0.086
+518,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.168,-0.238
+519,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.987,0.974
+520,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.304,-1.849
+521,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.161,-0.359
+522,Sales,Overworked & Disengaged,High risk,High (>=4),False,Yes,-0.446,-0.086
+523,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.603,1.338
+524,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.961,1.186
+525,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,2.049,2.513
+526,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.63,-0.02
+527,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.916,-1.449
+528,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.644,-1.263
+529,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.723,0.709
+530,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.553,-0.854
+531,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.731,-0.147
+532,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.409,-0.42
+533,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.586,-1.048
+534,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.082,1.0
+535,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.917,1.299
+536,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.516,2.797
+537,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.23,0.174
+538,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.226,1.899
+539,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.209,0.555
+540,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.216,-0.216
+541,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.364,-1.301
+542,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.965,0.516
+543,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.352,-2.195
+544,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.665,-2.595
+545,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.112,2.249
+546,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.18,-1.997
+547,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.885,-0.955
+548,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.12,2.653
+549,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.491,0.357
+550,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.014,-0.997
+551,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.032,-2.428
+552,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.9,2.219
+553,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.279,1.198
+554,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.524,-1.885
+555,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.829,1.732
+556,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.283,2.789
+557,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.907,1.688
+558,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.664,-2.158
+559,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.421,-1.922
+560,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,0.794,-1.43
+561,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.239,2.188
+562,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.644,0.29
+563,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.207,-1.149
+564,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.906,-0.08
+565,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.175,-0.889
+566,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.39,-0.285
+567,Sales,Early-Career Starters,Medium risk,Low (<=2),True,Yes,-3.269,-1.098
+568,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.943,3.585
+569,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.358,-0.406
+570,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,-2.35,-2.136
+571,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-1.961,-1.706
+572,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.03,-1.42
+573,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-1.224,-1.315
+574,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.747,1.087
+575,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,2.155,-1.511
+576,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.69,-1.771
+577,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.833,-1.527
+578,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.223,0.45
+579,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.123,0.15
+580,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.434,-0.213
+581,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,No,-0.987,-0.882
+582,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.61,-0.537
+583,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.705,3.428
+584,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.705,-1.621
+585,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.289,-0.723
+586,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.602,-0.62
+587,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,-0.316,1.845
+588,Research & Development,Engaged High Performers,Low risk,High (>=4),True,No,1.497,0.286
+589,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.681,1.958
+590,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.278,1.749
+591,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.999,-1.259
+592,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-1.423,-2.666
+593,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.145,-0.457
+594,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.321,0.546
+595,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.822,1.369
+596,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.887,2.251
+597,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.136,-0.293
+598,Human Resources,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.667,-0.679
+599,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.842,-1.922
+600,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.188,-0.638
+601,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,0.886,-1.022
+602,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.267,0.527
+603,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.333,-0.901
+604,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.493,1.213
+605,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.809,-0.589
+606,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.581,0.051
+607,Human Resources,Stagnant Veterans,Low risk,Solid (3),False,No,2.633,-0.811
+608,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.781,1.669
+609,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.634,1.034
+610,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.535,-1.773
+611,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.055,1.046
+612,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.233,0.393
+613,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.775,-0.535
+614,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.214,-1.19
+615,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.385,1.191
+616,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-2.69,-1.381
+617,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.418,0.697
+618,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.177,-2.766
+619,Sales,Engaged High Performers,Low risk,Solid (3),False,No,1.273,2.725
+620,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.948,2.126
+621,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.814,0.748
+622,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.565,-1.67
+623,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.242,-0.564
+624,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,Yes,0.111,-0.133
+625,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.929,-1.107
+626,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-1.109,-2.423
+627,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.349,-1.072
+628,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.256,1.824
+629,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-1.971,-0.638
+630,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,1.283,-0.863
+631,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.611,-1.073
+632,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.388,-0.663
+633,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.574,2.844
+634,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-0.35,-1.441
+635,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.279,1.141
+636,Sales,Engaged High Performers,Low risk,High (>=4),False,Yes,0.872,2.155
+637,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.465,-0.412
+638,Human Resources,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.491,-0.939
+639,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.242,1.056
+640,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.158,-1.953
+641,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.195,0.442
+642,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.18,-0.099
+643,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.422,2.696
+644,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.04,1.191
+645,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.164,-0.261
+646,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.886,-0.378
+647,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.67,1.748
+648,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.09,-1.239
+649,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.05,0.086
+650,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,0.03,0.706
+651,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,0.866,-0.69
+652,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.036,0.339
+653,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.633,1.331
+654,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.487,3.741
+655,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.607,0.085
+656,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.217,-1.536
+657,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.196,-1.324
+658,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.962,3.887
+659,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-2.044,-0.418
+660,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-2.254,-1.186
+661,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.149,1.902
+662,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.193,-0.131
+663,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,-0.016,1.403
+664,Sales,Engaged High Performers,Low risk,High (>=4),False,No,2.061,2.448
+665,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.132,-0.673
+666,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.107,-0.041
+667,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.738,-1.252
+668,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.157,-1.04
+669,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.886,1.017
+670,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,0.989,-1.586
+671,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.788,2.749
+672,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-2.142,-0.378
+673,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,4.154,-1.553
+674,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.854,-0.616
+675,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.417,-0.205
+676,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-1.389,-0.959
+677,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.064,-1.032
+678,Human Resources,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.921,-2.238
+679,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.065,1.545
+680,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-0.424,-0.952
+681,Sales,Engaged High Performers,Low risk,High (>=4),False,Yes,0.543,0.932
+682,Research & Development,Engaged High Performers,Low risk,High (>=4),True,No,0.363,1.012
+683,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.665,1.61
+684,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-0.861,-2.677
+685,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.119,-1.178
+686,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.429,0.78
+687,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.442,-0.117
+688,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.733,-1.704
+689,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.494,0.049
+690,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.353,-0.712
+691,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.572,2.239
+692,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,4.22,-1.346
+693,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,-0.882,-0.119
+694,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.419,-1.284
+695,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.478,-0.081
+696,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.408,-0.22
+697,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.995,0.77
+698,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.602,0.399
+699,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.74,0.685
+700,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.514,1.62
+701,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.493,3.135
+702,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,0.573,0.078
+703,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,2.335,2.111
+704,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.558,-1.334
+705,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.203,1.916
+706,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.823,-0.562
+707,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.943,1.408
+708,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.018,0.833
+709,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-1.488,-2.484
+710,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-0.882,-1.338
+711,Sales,Stagnant Veterans,Low risk,Low (<=2),False,Yes,1.569,-1.703
+712,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.36,-0.261
+713,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,0.785,-2.264
+714,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.984,-1.864
+715,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.142,0.497
+716,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.479,2.355
+717,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.899,0.325
+718,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.716,1.969
+719,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.839,0.23
+720,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.399,-1.102
+721,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.535,-1.736
+722,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,-0.898,0.191
+723,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.313,2.3
+724,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.72,-0.411
+725,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.23,1.366
+726,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.814,1.669
+727,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.147,1.649
+728,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.501,3.162
+729,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,0.606,-1.68
+730,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,0.463,-0.269
+731,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.151,-0.804
+732,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,0.106,0.048
+733,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.821,1.197
+734,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-0.43,-0.052
+735,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.285,2.791
+736,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.887,-1.017
+737,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.481,1.077
+738,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.285,-0.969
+739,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,0.401,-2.695
+740,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.784,-1.982
+741,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.188,1.567
+742,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.163,1.265
+743,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.224,-0.882
+744,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.287,2.257
+745,Sales,Overworked & Disengaged,High risk,Low (<=2),False,Yes,0.297,-2.921
+746,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-1.388,-2.174
+747,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.291,-2.043
+748,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.043,-2.782
+749,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.014,-0.047
+750,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.443,-1.418
+751,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.779,1.183
+752,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,1.483,-1.263
+753,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.78,-0.283
+754,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.47,-1.96
+755,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-3.042,0.531
+756,Research & Development,Engaged High Performers,Low risk,High (>=4),False,Yes,1.585,2.076
+757,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.197,-2.072
+758,Research & Development,Stagnant Veterans,Low risk,Solid (3),True,No,3.152,-2.184
+759,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.541,0.261
+760,Sales,Overworked & Disengaged,High risk,High (>=4),True,Yes,-0.637,-0.723
+761,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.307,-0.582
+762,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.389,2.999
+763,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.122,2.056
+764,Sales,Engaged High Performers,Low risk,Solid (3),False,No,0.839,1.552
+765,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.86,-1.736
+766,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.301,3.064
+767,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.71,0.087
+768,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.704,2.437
+769,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.143,1.147
+770,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.985,-0.162
+771,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.794,1.865
+772,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.114,0.631
+773,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.513,0.117
+774,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.402,-0.895
+775,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.176,1.434
+776,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.538,-0.735
+777,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-2.088,-0.281
+778,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.587,1.455
+779,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.688,-1.228
+780,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.724,-1.5
+781,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.439,1.555
+782,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.998,-1.452
+783,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,Yes,-0.142,-0.665
+784,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.854,0.179
+785,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,3.643,-1.004
+786,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.0,-1.466
+787,Sales,Stagnant Veterans,Low risk,Low (<=2),False,Yes,3.142,-2.582
+788,Sales,Overworked & Disengaged,High risk,High (>=4),True,Yes,-1.07,-2.297
+789,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-3.04,-0.91
+790,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.948,0.608
+791,Sales,Engaged High Performers,Low risk,Solid (3),False,No,0.183,1.178
+792,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,No,-0.879,-1.059
+793,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.094,-1.373
+794,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.009,1.944
+795,Research & Development,Engaged High Performers,Low risk,High (>=4),False,Yes,0.081,2.328
+796,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.655,-3.204
+797,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.043,1.485
+798,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.683,0.224
+799,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.454,-0.2
+800,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.033,-0.374
+801,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.622,0.967
+802,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.094,-1.541
+803,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.214,-1.424
+804,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.253,-0.299
+805,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.597,0.727
+806,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.433,0.867
+807,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.765,1.155
+808,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.309,2.32
+809,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,0.09,-1.233
+810,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.333,-0.099
+811,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.567,1.531
+812,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.498,1.302
+813,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.931,-1.384
+814,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.417,-0.021
+815,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.057,1.922
+816,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.414,-1.34
+817,Sales,Stagnant Veterans,Low risk,Low (<=2),True,No,1.786,-2.259
+818,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.307,1.291
+819,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.078,0.184
+820,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.021,0.64
+821,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,1.11,3.303
+822,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.652,0.65
+823,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.598,1.849
+824,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.612,-0.089
+825,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.509,-1.45
+826,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.343,0.512
+827,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.449,0.438
+828,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.182,0.711
+829,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.64,-0.964
+830,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.037,0.505
+831,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.784,0.504
+832,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-3.146,-0.632
+833,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.64,-0.8
+834,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.432,-0.44
+835,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.739,1.028
+836,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.197,0.863
+837,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.403,0.352
+838,Research & Development,Stagnant Veterans,Low risk,Low (<=2),True,No,1.804,-3.21
+839,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.538,-2.057
+840,Sales,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-1.411,-2.961
+841,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.987,1.977
+842,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-1.589,0.252
+843,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.289,-0.141
+844,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.633,-2.248
+845,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.926,1.476
+846,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.188,-1.519
+847,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.187,-0.683
+848,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.899,1.022
+849,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.477,1.235
+850,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.658,-1.542
+851,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.062,1.05
+852,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.023,2.162
+853,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.764,-1.382
+854,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,3.065,0.223
+855,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.911,1.204
+856,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.586,-0.945
+857,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.471,-0.102
+858,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.195,-0.659
+859,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.535,-1.741
+860,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-1.528,-2.047
+861,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.707,-0.344
+862,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.056,0.123
+863,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.066,0.65
+864,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.171,-0.51
+865,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.168,2.56
+866,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.717,-0.11
+867,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.507,-2.176
+868,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.82,0.246
+869,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.448,2.186
+870,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.659,2.208
+871,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-3.637,-1.601
+872,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.047,0.399
+873,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.406,-2.055
+874,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.068,-2.677
+875,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.123,0.682
+876,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.593,-0.157
+877,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.389,-0.49
+878,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,0.112,-2.11
+879,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.64,0.174
+880,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-2.371,-1.033
+881,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-2.231,-2.058
+882,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.549,-0.162
+883,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.447,-0.949
+884,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.161,0.539
+885,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-0.855,0.781
+886,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.064,-2.024
+887,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-1.092,-1.02
+888,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.089,1.843
+889,Human Resources,Engaged High Performers,Low risk,Solid (3),False,No,0.224,1.302
+890,Research & Development,Early-Career Starters,Medium risk,High (>=4),True,Yes,-3.126,-1.032
+891,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.397,-0.67
+892,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,2.974,-0.621
+893,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.229,2.305
+894,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.491,2.119
+895,Sales,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-2.122,-0.793
+896,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.395,-1.136
+897,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.149,1.566
+898,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.574,1.326
+899,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.829,1.898
+900,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.135,-0.582
+901,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.567,-1.67
+902,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.036,1.568
+903,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.449,2.061
+904,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.404,-1.373
+905,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.971,-0.029
+906,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.053,0.357
+907,Sales,Overworked & Disengaged,High risk,High (>=4),False,No,-0.319,-1.191
+908,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.954,2.078
+909,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.973,1.638
+910,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.308,2.117
+911,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.797,0.599
+912,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.153,-1.016
+913,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.288,-2.246
+914,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,0.683,-0.778
+915,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.638,-1.393
+916,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.822,-1.111
+917,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.102,2.313
+918,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.108,2.014
+919,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.248,-1.04
+920,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.523,-0.202
+921,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.588,0.642
+922,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.266,-1.18
+923,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.126,-0.153
+924,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.385,-0.695
+925,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.495,1.94
+926,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.893,2.04
+927,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.439,1.008
+928,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.663,-0.573
+929,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.825,0.667
+930,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.622,-1.128
+931,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.159,1.883
+932,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.732,-2.619
+933,Sales,Overworked & Disengaged,High risk,Low (<=2),True,Yes,0.299,-1.557
+934,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.878,-0.474
+935,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-1.76,1.089
+936,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.753,1.71
+937,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.557,-2.214
+938,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.464,2.74
+939,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.987,-0.563
+940,Sales,Engaged High Performers,Low risk,High (>=4),False,No,2.345,2.994
+941,Sales,Engaged High Performers,Low risk,Solid (3),False,No,1.323,1.221
+942,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,2.124,-2.02
+943,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.085,1.629
+944,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.889,-1.408
+945,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.88,-1.792
+946,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.183,1.756
+947,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.38,-0.189
+948,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.337,-0.956
+949,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.676,-2.583
+950,Sales,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.794,-1.203
+951,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.693,-1.649
+952,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.443,2.628
+953,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.184,2.635
+954,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.378,0.973
+955,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.663,-1.749
+956,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,0.943,-1.828
+957,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.228,1.287
+958,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,0.429,-0.734
+959,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-0.669,-0.58
+960,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.229,-0.172
+961,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.284,-0.261
+962,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.06,-1.881
+963,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.228,1.083
+964,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.36,1.813
+965,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.855,-1.093
+966,Human Resources,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.012,-1.601
+967,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.875,-1.793
+968,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.641,1.413
+969,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-0.919,0.227
+970,Sales,Engaged High Performers,Low risk,High (>=4),False,No,2.385,2.179
+971,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,-0.756,0.872
+972,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.194,2.217
+973,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.911,1.119
+974,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,4.025,-2.907
+975,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.755,-2.177
+976,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.797,0.633
+977,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.817,-0.618
+978,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,0.085,-0.033
+979,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.738,0.588
+980,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.996,2.55
+981,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.006,-0.498
+982,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.002,-3.023
+983,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.001,1.533
+984,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-0.166,-2.011
+985,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.992,1.937
+986,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.083,-2.081
+987,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,-1.403,-1.932
+988,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.685,2.331
+989,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.463,-1.883
+990,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.041,0.354
+991,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.119,0.2
+992,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.263,0.248
+993,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.745,-0.584
+994,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.029,2.126
+995,Research & Development,Stagnant Veterans,Low risk,Low (<=2),True,No,2.882,-2.812
+996,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-1.176,-2.008
+997,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.332,0.446
+998,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.032,1.823
+999,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.899,-2.371
+1000,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.223,0.343
+1001,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.477,0.969
+1002,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-0.384,-1.58
+1003,Sales,Engaged High Performers,Low risk,Solid (3),False,No,1.172,1.826
+1004,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,-0.981,-0.419
+1005,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.528,-0.818
+1006,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.143,-1.872
+1007,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.852,-0.762
+1008,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.438,-2.177
+1009,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.477,0.68
+1010,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-0.407,-0.979
+1011,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.114,1.528
+1012,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-2.998,-1.12
+1013,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.337,-2.03
+1014,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.306,-0.682
+1015,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-0.167,-0.777
+1016,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.486,1.707
+1017,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.032,0.967
+1018,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.606,-1.285
+1019,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.407,1.501
+1020,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,0.447,-2.592
+1021,Human Resources,Stagnant Veterans,Low risk,Solid (3),False,No,1.922,-0.519
+1022,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.485,0.062
+1023,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.09,-0.848
+1024,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.243,0.33
+1025,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.693,-0.392
+1026,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.18,-1.523
+1027,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.413,-2.649
+1028,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.002,-2.208
+1029,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-1.501,1.364
+1030,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.199,-0.466
+1031,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.681,0.723
+1032,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.781,0.659
+1033,Human Resources,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.035,-1.851
+1034,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.351,-2.223
+1035,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.42,-1.527
+1036,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.118,-0.52
+1037,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.886,-2.663
+1038,Sales,Overworked & Disengaged,High risk,High (>=4),False,Yes,-1.71,-1.587
+1039,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-0.733,-0.234
+1040,Research & Development,Engaged High Performers,Low risk,High (>=4),True,No,-0.745,1.801
+1041,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.497,1.603
+1042,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.763,-0.937
+1043,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.72,0.206
+1044,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.816,-0.009
+1045,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.676,1.33
+1046,Sales,Overworked & Disengaged,High risk,High (>=4),False,No,0.065,-0.402
+1047,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.68,1.686
+1048,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.563,1.169
+1049,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.832,-0.596
+1050,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.325,2.035
+1051,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.809,-1.276
+1052,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.607,3.037
+1053,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.34,2.923
+1054,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.031,0.846
+1055,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.857,2.849
+1056,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.033,-0.329
+1057,Sales,Stagnant Veterans,Low risk,Low (<=2),False,Yes,2.809,-1.609
+1058,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.815,1.716
+1059,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.65,0.486
+1060,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.207,1.573
+1061,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.088,-1.356
+1062,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.87,0.903
+1063,Sales,Engaged High Performers,Low risk,Solid (3),False,No,-0.627,1.139
+1064,Research & Development,Early-Career Starters,Medium risk,Solid (3),True,Yes,-2.722,-0.777
+1065,Human Resources,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.812,-1.378
+1066,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.222,-0.873
+1067,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-0.112,-0.69
+1068,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.236,1.466
+1069,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.151,1.815
+1070,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.704,-1.71
+1071,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,0.8,-0.202
+1072,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.76,0.427
+1073,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,Yes,-1.079,-1.889
+1074,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.658,-1.248
+1075,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.915,-0.873
+1076,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.17,-1.973
+1077,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-2.411,0.655
+1078,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.445,-1.471
+1079,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.731,0.403
+1080,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.357,-1.931
+1081,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.247,1.934
+1082,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,0.982,-0.028
+1083,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.541,-2.4
+1084,Human Resources,Stagnant Veterans,Low risk,Solid (3),False,No,2.485,-1.663
+1085,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.678,-1.164
+1086,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.872,1.623
+1087,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.204,1.299
+1088,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.254,0.1
+1089,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.565,-2.9
+1090,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.227,-1.643
+1091,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.008,0.668
+1092,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.221,1.395
+1093,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.46,0.076
+1094,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.925,2.746
+1095,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.747,-1.423
+1096,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,Yes,-1.084,-1.821
+1097,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.618,1.734
+1098,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.434,-3.097
+1099,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.269,-1.483
+1100,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,0.812,2.396
+1101,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.1,2.389
+1102,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,-1.043,-0.529
+1103,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.954,0.221
+1104,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.643,-2.047
+1105,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.706,1.375
+1106,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.999,1.299
+1107,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.584,3.445
+1108,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.005,-1.052
+1109,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.906,-2.052
+1110,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-0.651,1.061
+1111,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.886,2.651
+1112,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-1.889,-0.64
+1113,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.165,-0.177
+1114,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.815,-1.454
+1115,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.066,-1.073
+1116,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.637,2.554
+1117,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.104,1.162
+1118,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.953,-0.324
+1119,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.247,3.168
+1120,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.926,-1.537
+1121,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.279,0.443
+1122,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.516,1.497
+1123,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.48,-1.869
+1124,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.315,1.766
+1125,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.059,-2.599
+1126,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.039,0.201
+1127,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.699,-0.946
+1128,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.728,-0.776
+1129,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.226,0.309
+1130,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,2.629,-1.18
+1131,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.407,-1.443
+1132,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-1.582,-0.642
+1133,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.735,3.46
+1134,Sales,Early-Career Starters,Medium risk,High (>=4),False,Yes,-2.295,-0.7
+1135,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.389,-0.314
+1136,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,0.13,-1.351
+1137,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.671,-1.774
+1138,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.96,-1.319
+1139,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.852,1.513
+1140,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.479,-0.596
+1141,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-1.683,-0.806
+1142,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.178,-0.076
+1143,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,1.908,-2.216
+1144,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.934,-1.03
+1145,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.983,-0.014
+1146,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.078,-2.096
+1147,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.935,1.913
+1148,Sales,Stagnant Veterans,Low risk,Solid (3),False,Yes,1.481,-1.903
+1149,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-1.321,-1.132
+1150,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.606,-1.284
+1151,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.193,1.203
+1152,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,3.753,-1.698
+1153,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.421,1.701
+1154,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.677,2.144
+1155,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.257,-0.676
+1156,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,-0.295,1.656
+1157,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.46,1.784
+1158,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.222,1.007
+1159,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.053,-1.845
+1160,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.796,-0.976
+1161,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.78,1.681
+1162,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.115,0.683
+1163,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.801,-2.369
+1164,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.615,0.233
+1165,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.636,1.235
+1166,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.64,-1.208
+1167,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.041,-0.225
+1168,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.414,-0.258
+1169,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,3.611,-0.777
+1170,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.579,1.326
+1171,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.251,-2.659
+1172,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.601,-0.381
+1173,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.059,1.828
+1174,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.205,-1.163
+1175,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-2.371,-2.866
+1176,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-1.911,2.085
+1177,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-0.991,-0.785
+1178,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.886,-0.903
+1179,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.121,2.291
+1180,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.93,2.37
+1181,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-0.954,1.446
+1182,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.221,1.072
+1183,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.372,1.912
+1184,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.036,2.655
+1185,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.807,1.478
+1186,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.957,-1.648
+1187,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.038,-0.724
+1188,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.312,-1.197
+1189,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.824,2.836
+1190,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,Yes,-2.442,-0.498
+1191,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-0.8,-0.321
+1192,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-2.223,-2.05
+1193,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.638,-2.109
+1194,Research & Development,Stagnant Veterans,Low risk,Solid (3),True,Yes,1.676,-1.445
+1195,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.693,-0.897
+1196,Sales,Engaged High Performers,Low risk,Solid (3),False,No,-0.129,1.273
+1197,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.227,2.336
+1198,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.446,0.153
+1199,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.098,2.671
+1200,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.577,0.378
+1201,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.232,1.437
+1202,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.221,0.056
+1203,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.782,-2.243
+1204,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.783,1.433
+1205,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.104,1.486
+1206,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.088,2.682
+1207,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.984,1.733
+1208,Sales,Overworked & Disengaged,High risk,High (>=4),True,Yes,0.04,-1.96
+1209,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.02,1.973
+1210,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.945,-2.055
+1211,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.346,0.141
+1212,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.233,-1.855
+1213,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.534,1.001
+1214,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.22,-1.04
+1215,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.408,2.352
+1216,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.738,0.153
+1217,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,0.357,-0.929
+1218,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.123,-0.161
+1219,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.681,0.703
+1220,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.253,0.615
+1221,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-1.15,2.124
+1222,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.805,1.095
+1223,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,1.752,-1.87
+1224,Human Resources,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-1.448,0.692
+1225,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.296,1.292
+1226,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,3.087,-1.241
+1227,Sales,Overworked & Disengaged,High risk,Low (<=2),False,Yes,-0.615,-1.489
+1228,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.323,-0.551
+1229,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.526,-0.344
+1230,Sales,Engaged High Performers,Low risk,Solid (3),False,No,-0.555,1.341
+1231,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.963,2.839
+1232,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.07,0.932
+1233,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.951,0.521
+1234,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.978,0.916
+1235,Sales,Engaged High Performers,Low risk,Solid (3),False,No,1.266,2.382
+1236,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.668,1.609
+1237,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.146,2.078
+1238,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.984,-1.354
+1239,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.807,0.886
+1240,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.535,0.858
+1241,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,1.576,-2.658
+1242,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-1.317,-1.677
+1243,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,Yes,1.032,-0.664
+1244,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.108,1.616
+1245,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,-1.23,-1.055
+1246,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.362,1.073
+1247,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.6,-0.783
+1248,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,-0.297,0.695
+1249,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.776,-1.068
+1250,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.019,-0.885
+1251,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.115,2.966
+1252,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.798,2.209
+1253,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.185,1.026
+1254,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.558,0.103
+1255,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.473,2.233
+1256,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.901,-1.524
+1257,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.556,0.157
+1258,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.96,-2.261
+1259,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.861,-0.515
+1260,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.135,-1.803
+1261,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.432,0.767
+1262,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.315,-1.449
+1263,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.825,-1.283
+1264,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.989,-2.85
+1265,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.816,-1.122
+1266,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.106,-1.022
+1267,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.107,2.093
+1268,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.801,-2.108
+1269,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.286,-1.226
+1270,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-1.02,-1.601
+1271,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.917,-0.824
+1272,Sales,Overworked & Disengaged,High risk,High (>=4),False,No,-0.335,-0.466
+1273,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.038,-1.998
+1274,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.072,-0.529
+1275,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.298,1.379
+1276,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,0.518,-1.337
+1277,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.113,1.477
+1278,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.541,0.33
+1279,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.268,-0.624
+1280,Research & Development,Early-Career Starters,Medium risk,Solid (3),True,No,-2.654,-0.104
+1281,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,No,0.294,-2.638
+1282,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.264,-1.621
+1283,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-1.808,-1.314
+1284,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-3.416,-1.066
+1285,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,1.714,-0.921
+1286,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.282,0.085
+1287,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,-0.36,-2.252
+1288,Sales,Early-Career Starters,Medium risk,Low (<=2),True,Yes,-3.194,-1.035
+1289,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.461,-2.169
+1290,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.577,1.164
+1291,Sales,Early-Career Starters,Medium risk,Solid (3),True,Yes,-3.376,-1.532
+1292,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.43,0.828
+1293,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.801,1.443
+1294,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,Yes,0.468,-1.433
+1295,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.717,-1.669
+1296,Sales,Overworked & Disengaged,High risk,High (>=4),True,No,-0.729,-0.409
+1297,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.862,3.149
+1298,Sales,Engaged High Performers,Low risk,Solid (3),False,No,-0.195,1.292
+1299,Sales,Overworked & Disengaged,High risk,Solid (3),False,No,-2.279,-1.181
+1300,Human Resources,Overworked & Disengaged,High risk,Low (<=2),False,Yes,0.786,-1.498
+1301,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.254,0.915
+1302,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.034,0.202
+1303,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.869,0.423
+1304,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.197,3.088
+1305,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.076,-0.689
+1306,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.244,0.279
+1307,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.393,0.024
+1308,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.817,-0.418
+1309,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.704,1.927
+1310,Research & Development,Stagnant Veterans,Low risk,Solid (3),True,No,2.943,-2.614
+1311,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-0.297,-1.123
+1312,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,1.751,-2.033
+1313,Research & Development,Early-Career Starters,Medium risk,Solid (3),True,No,-3.151,-0.239
+1314,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.732,0.973
+1315,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.546,2.697
+1316,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.965,1.021
+1317,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.774,-0.137
+1318,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.283,1.314
+1319,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.463,-0.987
+1320,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.998,-1.109
+1321,Sales,Overworked & Disengaged,High risk,High (>=4),True,Yes,0.183,-0.551
+1322,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.654,-1.061
+1323,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.279,2.408
+1324,Human Resources,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.743,-0.233
+1325,Sales,Overworked & Disengaged,High risk,Solid (3),True,No,-0.178,-1.152
+1326,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.236,-1.688
+1327,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,Yes,-0.71,-1.34
+1328,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.826,-0.837
+1329,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.109,0.61
+1330,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.505,1.535
+1331,Human Resources,Early-Career Starters,Medium risk,Solid (3),False,No,-1.989,1.06
+1332,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-2.459,-2.26
+1333,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.034,0.054
+1334,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.233,-1.551
+1335,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.264,-0.105
+1336,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.853,-2.231
+1337,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.73,2.461
+1338,Sales,Early-Career Starters,Medium risk,High (>=4),False,No,-1.085,1.465
+1339,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.057,-2.284
+1340,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-1.744,-3.203
+1341,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,1.755,1.78
+1342,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.037,-1.32
+1343,Sales,Overworked & Disengaged,High risk,Solid (3),False,Yes,-0.02,-1.723
+1344,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.832,0.148
+1345,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.229,-1.671
+1346,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.748,-0.148
+1347,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-0.16,-2.005
+1348,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.241,-1.669
+1349,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,0.824,-1.136
+1350,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.302,2.581
+1351,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.902,-0.271
+1352,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.002,-1.196
+1353,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.572,1.884
+1354,Human Resources,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.079,-1.228
+1355,Human Resources,Stagnant Veterans,Low risk,Solid (3),False,No,2.789,-1.094
+1356,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.98,2.984
+1357,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.843,0.853
+1358,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.701,-1.45
+1359,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-2.852,-0.815
+1360,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.971,2.25
+1361,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.129,-0.168
+1362,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.147,-2.037
+1363,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.385,-0.85
+1364,Sales,Engaged High Performers,Low risk,Solid (3),False,Yes,0.12,0.719
+1365,Sales,Overworked & Disengaged,High risk,Solid (3),True,Yes,-1.693,-0.881
+1366,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.53,-0.736
+1367,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,0.553,0.146
+1368,Research & Development,Engaged High Performers,Low risk,Solid (3),False,No,0.929,1.712
+1369,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-0.893,1.435
+1370,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,Yes,-0.845,-1.559
+1371,Sales,Engaged High Performers,Low risk,High (>=4),False,No,1.847,2.385
+1372,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.693,-1.845
+1373,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.669,-2.407
+1374,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.326,-1.504
+1375,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.277,-0.694
+1376,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.229,1.924
+1377,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.448,0.488
+1378,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.334,-1.298
+1379,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.94,-1.003
+1380,Research & Development,Overworked & Disengaged,High risk,Solid (3),False,No,-0.736,-0.748
+1381,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,-0.361,0.147
+1382,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.463,2.087
+1383,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-1.494,0.072
+1384,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.629,-1.241
+1385,Sales,Stagnant Veterans,Low risk,Low (<=2),True,Yes,2.075,-2.797
+1386,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.675,1.348
+1387,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.463,0.218
+1388,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,1.133,-1.294
+1389,Sales,Stagnant Veterans,Low risk,Low (<=2),False,No,2.667,-3.025
+1390,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.523,3.037
+1391,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.259,-1.504
+1392,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,0.219,-1.333
+1393,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,2.045,1.431
+1394,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.632,1.739
+1395,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.402,-1.743
+1396,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.67,1.142
+1397,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-1.821,2.4
+1398,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.531,-1.311
+1399,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.863,0.809
+1400,Research & Development,Overworked & Disengaged,High risk,High (>=4),True,No,-0.625,-1.311
+1401,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,0.145,-0.219
+1402,Research & Development,Engaged High Performers,Low risk,High (>=4),False,Yes,1.409,1.294
+1403,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.681,-1.825
+1404,Research & Development,Overworked & Disengaged,High risk,High (>=4),False,No,-1.252,-0.278
+1405,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.377,2.516
+1406,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.103,1.184
+1407,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,3.022,-1.995
+1408,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.136,2.172
+1409,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.732,-0.85
+1410,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.608,-0.615
+1411,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.597,-1.393
+1412,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.975,-0.053
+1413,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,3.035,-0.4
+1414,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.685,-2.436
+1415,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.043,1.39
+1416,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.067,-0.663
+1417,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.069,1.108
+1418,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.99,0.984
+1419,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,4.065,-0.703
+1420,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,2.77,-1.151
+1421,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.857,-0.463
+1422,Human Resources,Overworked & Disengaged,High risk,High (>=4),True,Yes,-1.778,-1.667
+1423,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,0.52,-1.842
+1424,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.579,-1.684
+1425,Human Resources,Overworked & Disengaged,High risk,Solid (3),False,No,-0.515,-1.7
+1426,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,0.43,-0.482
+1427,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,1.772,1.428
+1428,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.619,3.172
+1429,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.844,-0.074
+1430,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.327,0.175
+1431,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,3.261,-0.014
+1432,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-2.712,-0.068
+1433,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.603,2.321
+1434,Human Resources,Engaged High Performers,Low risk,Solid (3),False,No,1.695,1.967
+1435,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,-0.277,2.417
+1436,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,Yes,2.842,-1.266
+1437,Human Resources,Engaged High Performers,Low risk,High (>=4),False,No,-0.025,1.397
+1438,Research & Development,Overworked & Disengaged,High risk,Low (<=2),True,Yes,-0.62,-1.657
+1439,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,2.171,-1.41
+1440,Research & Development,Stagnant Veterans,Low risk,Solid (3),False,No,2.708,-1.967
+1441,Sales,Engaged High Performers,Low risk,Solid (3),False,No,0.573,2.584
+1442,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.328,2.582
+1443,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.499,2.842
+1444,Sales,Engaged High Performers,Low risk,Solid (3),False,No,0.933,1.315
+1445,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.291,1.892
+1446,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.612,1.242
+1447,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.982,-1.468
+1448,Sales,Early-Career Starters,Medium risk,Solid (3),False,Yes,-1.299,0.114
+1449,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-1.388,0.194
+1450,Sales,Engaged High Performers,Low risk,High (>=4),False,No,0.364,2.159
+1451,Human Resources,Stagnant Veterans,Low risk,Low (<=2),False,No,3.066,-0.964
+1452,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,No,-3.023,-0.587
+1453,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,2.454,-2.916
+1454,Sales,Stagnant Veterans,Low risk,Solid (3),False,No,3.19,-1.513
+1455,Research & Development,Overworked & Disengaged,High risk,Low (<=2),False,No,-0.992,-2.069
+1456,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.975,1.196
+1457,Sales,Engaged High Performers,Low risk,High (>=4),False,No,-0.481,1.196
+1458,Research & Development,Overworked & Disengaged,High risk,Solid (3),True,No,-0.733,-0.678
+1459,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,No,1.262,-0.82
+1460,Sales,Overworked & Disengaged,High risk,Low (<=2),True,No,-1.646,-1.697
+1461,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,No,-2.401,0.893
+1462,Research & Development,Early-Career Starters,Medium risk,Low (<=2),False,Yes,-1.69,-0.441
+1463,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.918,1.973
+1464,Sales,Early-Career Starters,Medium risk,Solid (3),False,No,-1.313,0.746
+1465,Sales,Early-Career Starters,Medium risk,Low (<=2),False,No,-2.416,-1.874
+1466,Research & Development,Early-Career Starters,Medium risk,Solid (3),False,Yes,-3.118,0.506
+1467,Research & Development,Stagnant Veterans,Low risk,Low (<=2),False,Yes,0.367,-2.08
+1468,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,0.859,1.648
+1469,Research & Development,Early-Career Starters,Medium risk,High (>=4),False,No,-2.151,0.1
+1470,Research & Development,Engaged High Performers,Low risk,High (>=4),False,No,1.092,1.305
